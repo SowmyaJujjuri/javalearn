@@ -1,0 +1,10 @@
+
+public class Application 
+{
+	public static void main(String[] args)
+	{
+		java.awt.Frame f = new java.awt.Frame();
+		f.setSize(500, 500);
+		f.setVisible(true);
+	}
+}
